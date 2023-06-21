@@ -1,0 +1,26 @@
+{
+    "keepSettings": {
+        "type": 2,
+        "amount": 10
+    },
+    "auditFilename": "audit.json",
+    "hashType": "md5",
+    "extension": "",
+    "files": [
+        {
+            "date": 1687230003342,
+            "name": "C:\\Users\\sanmar\\Desktop\\Demos\\starter-project\\logs\\access.2023-06-20.log",
+            "hash": "dada65675fa3acbacaa51b0488168bba"
+        },
+        {
+            "date": 1687249323961,
+            "name": "C:\\Users\\sanmar\\Desktop\\Demos\\starter-project - lab\\logs\\access.2023-06-20.log",
+            "hash": "d5cf550ddc9c67fb54ca0ec2505c2486"
+        },
+        {
+            "date": 1687309577674,
+            "name": "C:\\Users\\sanmar\\Desktop\\Demos\\starter-project - lab\\logs\\access.2023-06-21.log",
+            "hash": "1d9332a7e6d7dfc9324f69a1f9806a0f"
+        }
+    ]
+}
